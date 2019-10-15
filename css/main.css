@@ -1,0 +1,10 @@
+.face {
+  fill: gold;
+}
+
+.mouth {
+  fille: none;
+  stroke: #000;
+  stroke-width: 6px;
+  stroke-linecap: round;
+}
